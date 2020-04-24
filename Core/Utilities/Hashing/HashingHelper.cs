@@ -15,6 +15,7 @@ namespace Core.Utilities.Hashing
                 passwordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(password));
                 //test
                 //test2
+                //local
 
 
             }
