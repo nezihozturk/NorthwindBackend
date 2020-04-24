@@ -16,6 +16,7 @@ namespace Core.Utilities.Hashing
                 //test
                 //test2
                 //local
+                //bug fix
 
 
             }
